@@ -9,6 +9,7 @@ React App:
   In order to get this app running use ```npm start``` in the ReactGPTApp folder.
   
   Very simple UI:
+  
   ![Screenshot 2023-12-12 at 3 35 01 PM](https://github.com/revinkama/customchatgptbot/assets/37127120/2f9ec324-2bef-4296-b34f-9da68d1c4f99)
 
 

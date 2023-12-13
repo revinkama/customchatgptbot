@@ -14,7 +14,7 @@ import org.springframework.web.client.RestTemplate;
 import java.util.List;
 
 @RestController
-@RequestMapping("/bot")
+@RequestMapping("/api/v1")
 @CrossOrigin("http://localhost:3000")
 @AllArgsConstructor
 @NoArgsConstructor

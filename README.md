@@ -1,7 +1,7 @@
 # customchatgptbot
 
 This bot was created using Java Spring and React components.
-The purpose of this app was to make requests to OpenAI endpoint.
+The purpose of this app was to make requests to OpenAI endpoint. But unlike web app chatgpt, this app has speech to text implemented. 
 Developed under the Microservices Architecture.
 
 ## React App:
@@ -10,8 +10,9 @@ Developed under the Microservices Architecture.
   
   Very simple UI:
   
-  ![Screenshot 2023-12-12 at 3 35 01 PM](https://github.com/revinkama/customchatgptbot/assets/37127120/2f9ec324-2bef-4296-b34f-9da68d1c4f99)
+  ![Screenshot 2023-12-21 at 12 06 55 AM](https://github.com/revinkama/customchatgptbot/assets/37127120/d79bac60-e61c-4ae1-8ab8-548340d5c2a8)
 
+ 
 
 ## Java App:
   Your own api key from openai will be needed to run this application, this can be found/created here: https://platform.openai.com/api-keys
